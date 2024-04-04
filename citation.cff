@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Keetz"
+  given-names: "Lasse T."
+  orcid: "https://orcid.org/0000-0002-8040-4122"
+title: "AR18x18 Vegetation Type land cover classification"
+version: 0.1.0
+doi: TBA
+date-released: 2024-04-04
+url: "https://github.com/lasseke/vt-land-cover-classification"
