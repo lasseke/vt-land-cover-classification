@@ -1,0 +1,37 @@
+{
+    "NDVI" : {
+        "long_name" : "Normalized Difference Vegetation Index",
+        "formula": {
+            "Sentinel2" : "(B8 * 1.0 - B4) / (B8 * 1.0 + B4)",
+            "Landsat7" : "(B4 * 1.0 - B3) / (B4 * 1.0 + B3)"
+        }
+    },
+    "GNDVI" : {
+        "long_name" : "Green Normalized Difference Vegetation Index",
+        "formula": {
+            "Sentinel2" : "(B8 * 1.0 - B3) / (B8 * 1.0 + B3)",
+            "Landsat7" : "(B4 * 1.0 - B2) / (B4 * 1.0 + B2)"
+        }
+    },
+    "EVI" : {
+        "long_name" : "Enhanced Vegetation Index",
+        "formula": {
+            "Sentinel2" : "2.5 * ((B8 * 1.0 - B4) / (B8 + (6 * B4) - (7.5 * B2) + 1))",
+            "Landsat7" : "2.5 * ((B4 * 1.0 - B3) / (B4 + (6 * B3) - (7.5 * B1) + 1))"
+        }
+    },
+    "SAVI" : {
+        "long_name" : "Soil Adjusted Vegetation Index",
+        "formula": {
+            "Sentinel2" : "((B8 * 1.0 - B4) / (B8 + B4 + 0.5)) * (1.5)",
+            "Landsat7" : "((B4 * 1.0 - B3) / (B4 + B3 + 0.5)) * (1.5)"
+        }
+    },
+    "NDMI" : {
+        "long_name" : "Normalized Difference Moisture Index",
+        "formula": {
+            "Sentinel2" : "(B8 * 1.0 - B11) / (B8 + B11)",
+            "Landsat7" : "(B4 * 1.0 - B5) / (B4 + B5)"
+        }
+    }
+}

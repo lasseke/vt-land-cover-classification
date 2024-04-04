@@ -1,3 +1,14 @@
+# Project specific files
+*.tif
+*.joblib
+*.geojson
+*.shp
+*.prj
+*.dbf
+*.cpg
+*.shx
+.vscode
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]

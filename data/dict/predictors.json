@@ -1,0 +1,590 @@
+{
+    "x": {
+        "long_name": "Easting",
+        "dtype": "continuous",
+        "unit": "m [UTM 32N WGS84]",
+        "category": "excluded"
+    },
+    "y": {
+        "long_name": "Northing",
+        "dtype": "continuous",
+        "unit": "m [UTM 32N WGS84]",
+        "category": "excluded"
+    },
+    "plot_id": {
+        "long_name": "Plot ID",
+        "dtype": "categorical",
+        "unit": "NA",
+        "category": "excluded"
+    },
+    "B1_median_comp_Sent2": {
+        "long_name": "Sent2 - B1 (MED)",
+        "dtype": "continuous",
+        "unit": "Surface reflectance",
+        "category": "Satellite"
+    }, 
+    "B2_median_comp_Sent2": {
+        "long_name": "Sent2 - B2 (MED)",
+        "dtype": "continuous",
+        "unit": "Surface reflectance",
+        "category": "Satellite"
+    }, 
+    "B3_median_comp_Sent2": {
+        "long_name": "Sent2 - B3 (MED)",
+        "dtype": "continuous",
+        "unit": "Surface reflectance",
+        "category": "Satellite"
+    }, 
+    "B4_median_comp_Sent2": {
+        "long_name": "Sent2 - B4 (MED)",
+        "dtype": "continuous",
+        "unit": "Surface reflectance",
+        "category": "Satellite"
+    },
+    "B5_median_comp_Sent2": {
+        "long_name": "Sent2 - B5 (MED)",
+        "dtype": "continuous",
+        "unit": "Surface reflectance",
+        "category": "Satellite"
+    },
+    "B6_median_comp_Sent2": {
+        "long_name": "Sent2 - B6 (MED)",
+        "dtype": "continuous",
+        "unit": "Surface reflectance",
+        "category": "Satellite"
+    },
+    "B7_median_comp_Sent2": {
+        "long_name": "Sent2 - B7 (MED)",
+        "dtype": "continuous",
+        "unit": "Surface reflectance",
+        "category": "Satellite"
+    },
+    "B8_median_comp_Sent2": {
+        "long_name": "Sent2 - B8 (MED)",
+        "dtype": "continuous",
+        "unit": "Surface reflectance",
+        "category": "Satellite"
+    }, 
+    "B8A_median_comp_Sent2": {
+        "long_name": "Sent2 - B8A (MED)",
+        "dtype": "continuous",
+        "unit": "Surface reflectance",
+        "category": "Satellite"
+    }, 
+    "B9_median_comp_Sent2": {
+        "long_name": "Sent2 - B9 (MED)",
+        "dtype": "continuous",
+        "unit": "Surface reflectance",
+        "category": "Satellite"
+    },
+    "B11_median_comp_Sent2": {
+        "long_name": "Sent2 - B11 (MED)",
+        "dtype": "continuous",
+        "unit": "Surface reflectance",
+        "category": "Satellite"
+    }, 
+    "B12_median_comp_Sent2": {
+        "long_name": "Sent2 - B12 (MED)",
+        "dtype": "continuous",
+        "unit": "Surface reflectance",
+        "category": "Satellite"
+    }, 
+    "EVI_median_comp_Sent2": {
+        "long_name": "Sent2 - EVI (MED)",
+        "dtype": "continuous",
+        "unit": "Spectral index",
+        "category": "Satellite"
+    },
+    "EVI_greenest_pixel_Sent2": {
+        "long_name": "Sent2 - EVI (MVC)",
+        "dtype": "continuous",
+        "unit": "Spectral index",
+        "category": "Satellite"
+    },
+    "GNDVI_median_comp_Sent2": {
+        "long_name": "Sent2 - GNDVI (MED)",
+        "dtype": "continuous",
+        "unit": "Spectral index",
+        "category": "Satellite"
+    },
+    "GNDVI_greenest_pixel_Sent2": {
+        "long_name": "Sent2 - GNDVI (MVC)",
+        "dtype": "continuous",
+        "unit": "Spectral index",
+        "category": "Satellite"
+    },
+    "NDMI_median_comp_Sent2": {
+        "long_name": "Sent2 - NDMI (MED)",
+        "dtype": "continuous",
+        "unit": "Spectral index",
+        "category": "Satellite"
+    },
+    "NDMI_greenest_pixel_Sent2": {
+        "long_name": "Sent2 - NDMI (MVC)",
+        "dtype": "continuous",
+        "unit": "Spectral index",
+        "category": "Satellite"
+    },
+    "NDVI_median_comp_Sent2": {
+        "long_name": "Sent2 - NDVI (MED)",
+        "dtype": "continuous",
+        "unit": "Spectral index",
+        "category": "Satellite"
+    },
+    "NDVI_greenest_pixel_Sent2": {
+        "long_name": "Sent2 - NDVI (MVC)",
+        "dtype": "continuous",
+        "unit": "Spectral index",
+        "category": "Satellite"
+    },
+    "SAVI_median_comp_Sent2": {
+        "long_name": "Sent2 - SAVI (MED)",
+        "dtype": "continuous",
+        "unit": "Spectral index",
+        "category": "Satellite"
+    },
+    "SAVI_greenest_pixel_Sent2": {
+        "long_name": "Sent2 - SAVI (MVC)",
+        "dtype": "continuous",
+        "unit": "Spectral index",
+        "category": "Satellite"
+    },
+    "B1_median_comp_Lands7": {
+        "long_name": "Lands7 - B1 (MED)",
+        "dtype": "continuous",
+        "unit": "Surface reflectance",
+        "category": "Satellite"
+    }, 
+    "B2_median_comp_Lands7": {
+        "long_name": "Lands7 - B2 (MED)",
+        "dtype": "continuous",
+        "unit": "Surface reflectance",
+        "category": "Satellite"
+    },
+    "B3_median_comp_Lands7": {
+        "long_name": "Lands7 - B3 (MED)",
+        "dtype": "continuous",
+        "unit": "Surface reflectance",
+        "category": "Satellite"
+    }, 
+    "B4_median_comp_Lands7": {
+        "long_name": "Lands7 - B4 (MED)",
+        "dtype": "continuous",
+        "unit": "Surface reflectance",
+        "category": "Satellite"
+    }, 
+    "B5_median_comp_Lands7": {
+        "long_name": "Lands7 - B5 (MED)",
+        "dtype": "continuous",
+        "unit": "Surface reflectance",
+        "category": "Satellite"
+    }, 
+    "B6_median_comp_Lands7": {
+        "long_name": "Lands7 - B6 (MED)",
+        "dtype": "continuous",
+        "unit": "Brightness temperature [K]",
+        "category": "Satellite"
+    }, 
+    "B7_median_comp_Lands7": {
+        "long_name": "Lands7 - B7 (MED)",
+        "dtype": "continuous",
+        "unit": "Surface reflectance",
+        "category": "Satellite"
+    }, 
+    "EVI_median_comp_Lands7": {
+        "long_name": "Lands7 - EVI (MED)",
+        "dtype": "continuous",
+        "unit": "Spectral index",
+        "category": "Satellite"
+    },
+    "EVI_greenest_pixel_Lands7": {
+        "long_name": "Lands7 - EVI (MVC)",
+        "dtype": "continuous",
+        "unit": "Spectral index",
+        "category": "Satellite"
+    },
+    "GNDVI_median_comp_Lands7": {
+        "long_name": "Lands7 - GNDVI (MED)",
+        "dtype": "continuous",
+        "unit": "Spectral index",
+        "category": "Satellite"
+    },
+    "GNDVI_greenest_pixel_Lands7": {
+        "long_name": "Lands7 - GNDVI (MVC)",
+        "dtype": "continuous",
+        "unit": "Spectral index",
+        "category": "Satellite"
+    },
+    "NDMI_median_comp_Lands7": {
+        "long_name": "Lands7 - NDMI (MED)",
+        "dtype": "continuous",
+        "unit": "Spectral index",
+        "category": "Satellite"
+    },
+    "NDMI_greenest_pixel_Lands7": {
+        "long_name": "Lands7 - NDMI (MVC)",
+        "dtype": "continuous",
+        "unit": "Spectral index",
+        "category": "Satellite"
+    },
+    "NDVI_median_comp_Lands7": {
+        "long_name": "Lands7 - NDVI (MED)",
+        "dtype": "continuous",
+        "unit": "Spectral index",
+        "category": "Satellite"
+    },
+    "NDVI_greenest_pixel_Lands7": {
+        "long_name": "Lands7 - NDVI (MVC)",
+        "dtype": "continuous",
+        "unit": "Spectral index",
+        "category": "Satellite"
+    },
+    "SAVI_median_comp_Lands7": {
+        "long_name": "Lands7 - SAVI (MED)",
+        "dtype": "continuous",
+        "unit": "Spectral index",
+        "category": "Satellite"
+    },
+    "SAVI_greenest_pixel_Lands7": {
+        "long_name": "Lands7 - SAVI (MVC)",
+        "dtype": "continuous",
+        "unit": "Spectral index",
+        "category": "Satellite"
+    },
+    "ar50_artype": {
+        "long_name": "AR50 - LC types",
+        "dtype": "categorical",
+        "unit": "NA",
+        "category": "Baseline land cover"
+    }, 
+    "ar50_skogbon": {
+        "long_name": "AR50 - Forest productivity",
+        "dtype": "categorical",
+        "unit": "NA",
+        "category": "Baseline land cover"
+    },
+    "ar50_treslag": {
+        "long_name": "AR50 - Forest types",
+        "dtype": "categorical",
+        "unit": "NA",
+        "category": "Baseline land cover"
+    }, 
+    "ar50_veg": {
+        "long_name": "AR50 - Veg. cover",
+        "dtype": "categorical",
+        "unit": "NA",
+        "category": "Baseline land cover"
+    }, 
+    "corine_lc_2012": {
+        "long_name": "CORINE - LC classes",
+        "dtype": "categorical",
+        "unit": "NA",
+        "category": "Baseline land cover"
+    }, 
+    "geo_berggrunn": {
+        "long_name": "Bed rock - type",
+        "dtype": "categorical",
+        "unit": "NA",
+        "category": "Geology"
+    },
+    "geo_grunnvann": {
+        "long_name": "Groundwater potential",
+        "dtype": "categorical",
+        "unit": "NA",
+        "category": "Geology"
+    }, 
+    "geo_infiltr_evne": {
+        "long_name": "Infiltration capacity",
+        "dtype": "categorical",
+        "unit": "NA",
+        "category": "Geology"
+    }, 
+    "geo_losmasse": {
+        "long_name": "Sedimentary deposits",
+        "dtype": "categorical",
+        "unit": "NA",
+        "category": "Geology"
+    }, 
+    "geo_norge123": {
+        "long_name": "Bed rock - nutrient content",
+        "dtype": "categorical",
+        "unit": "NA",
+        "category": "Geology"
+    },
+    "geology_norge": {
+        "long_name": "Bed rock - nutrient content",
+        "dtype": "categorical",
+        "unit": "NA",
+        "category": "Geology"
+    }, 
+    "aspect": {
+        "long_name": "Aspect",
+        "dtype": "continuous",
+        "unit": "NA",
+        "category": "Geospatial"
+    }, 
+    "bioclim_1": {
+        "long_name": "Annual mean T (BC-1)",
+        "dtype": "continuous",
+        "unit": "deg.C",
+        "category": "Climate"
+    }, 
+    "bioclim_10": {
+        "long_name": "Mean T - warmest quarter (BC-10)",
+        "dtype": "continuous",
+        "unit": "deg.C",
+        "category": "Climate"
+    }, 
+    "bioclim_11": {
+        "long_name": "Mean T - coldest quarter (BC-11)",
+        "dtype": "continuous",
+        "unit": "deg.C",
+        "category": "Climate"
+    },
+    "bioclim_12": {
+        "long_name": "Annual precip. (BC-12)",
+        "dtype": "continuous",
+        "unit": "mm",
+        "category": "Climate"
+    }, 
+    "bioclim_15": {
+        "long_name": "Precip. seasonality (BC-15)",
+        "dtype": "continuous",
+        "unit": "Coef. of variation",
+        "category": "Climate"
+    }, 
+    "bioclim_17": {
+        "long_name": "Precip. - driest quarter (BC-17)",
+        "dtype": "continuous",
+        "unit": "mm",
+        "category": "Climate"
+    }, 
+    "bioclim_18": {
+        "long_name": "Precip. - warmest quarter (BC-18)",
+        "dtype": "continuous",
+        "unit": "mm",
+        "category": "Climate"
+    }, 
+    "bioclim_3": {
+        "long_name": "Isothermality (BC-3)",
+        "dtype": "continuous",
+        "unit": "-",
+        "category": "Climate"
+    },
+    "bioclim_5": {
+        "long_name": "Max T - warmest month (BC-5)",
+        "dtype": "continuous",
+        "unit": "deg.C",
+        "category": "Climate"
+    }, 
+    "bioclim_6": {
+        "long_name": "Min T - coldest month (BC-6)",
+        "dtype": "continuous",
+        "unit": "deg.C",
+        "category": "Climate"
+    }, 
+    "bioclim_7": {
+        "long_name": "T - annual range (BC-7)",
+        "dtype": "continuous",
+        "unit": "deg.C",
+        "category": "Climate"
+    }, 
+    "bioclim_8": {
+        "long_name": "Mean T - wettest quarter (BC-8)",
+        "dtype": "continuous",
+        "unit": "deg.C",
+        "category": "Climate"
+    }, 
+    "bioclim_9": {
+        "long_name": "Mean T - driest quarter (BC-9)",
+        "dtype": "continuous",
+        "unit": "deg.C",
+        "category": "Climate"
+    }, 
+    "dem100": {
+        "long_name": "DEM",
+        "dtype": "continuous",
+        "unit": "m.a.s.l.",
+        "category": "Geospatial"
+    },
+    "growing_season_length": {
+        "long_name": "Growing season length",
+        "dtype": "continuous",
+        "unit": "days",
+        "category": "Climate"
+    }, 
+    "precip_5": {
+        "long_name": "Mean precip. - May",
+        "dtype": "continuous",
+        "unit": "mm",
+        "category": "Climate"
+    }, 
+    "precip_6": {
+        "long_name": "Mean precip. - June",
+        "dtype": "continuous",
+        "unit": "mm",
+        "category": "Climate"
+    }, 
+    "proxy_allrivers": {
+        "long_name": "Distance to rivers",
+        "dtype": "continuous",
+        "unit": "m",
+        "category": "Geospatial"
+    },
+    "proxy_allwater": {
+        "long_name": "Distance to all water bodies",
+        "dtype": "continuous",
+        "unit": "m",
+        "category": "Geospatial"
+    }, 
+    "proxy_coast": {
+        "long_name": "Distance to coast",
+        "dtype": "continuous",
+        "unit": "m",
+        "category": "Geospatial"
+    }, 
+    "proxy_lakes": {
+        "long_name": "Distance to lakes",
+        "dtype": "continuous",
+        "unit": "m",
+        "category": "Geospatial"
+    }, 
+    "sca_2": {
+        "long_name": "Snow covered area Feb.",
+        "dtype": "continuous",
+        "unit": "m2",
+        "category": "Climate"
+    }, 
+    "sca_7": {
+        "long_name": "Snow covered area July",
+        "dtype": "continuous",
+        "unit": "m2",
+        "category": "Climate"
+    }, 
+    "sca_8": {
+        "long_name": "Snow covered area Aug.",
+        "dtype": "continuous",
+        "unit": "m2",
+        "category": "Climate"
+    },
+    "sca_9": {
+        "long_name": "Snow covered area Sep.",
+        "dtype": "continuous",
+        "unit": "m2",
+        "category": "Climate"
+    }, 
+    "slope": {
+        "long_name": "Slope",
+        "dtype": "continuous",
+        "unit": "-",
+        "category": "Geospatial"
+    }, 
+    "swe_10": {
+        "long_name": "Snow water equivalent Oct.",
+        "dtype": "continuous",
+        "unit": "mm",
+        "category": "Climate"
+    }, 
+    "swe_4": {
+        "long_name": "Snow water equivalent Apr.",
+        "dtype": "continuous",
+        "unit": "mm",
+        "category": "Climate"
+    }, 
+    "swe_8": {
+        "long_name": "Snow water equivalent Aug.",
+        "dtype": "continuous",
+        "unit": "mm",
+        "category": "Climate"
+    }, 
+    "terrain_ruggedness_index": {
+        "long_name": "Terrain ruggedness index",
+        "dtype": "continuous",
+        "unit": "-",
+        "category": "Geospatial"
+    },
+    "tmax_1": {
+        "long_name": "Max T - Jan.",
+        "dtype": "continuous",
+        "unit": "deg.C",
+        "category": "Climate"
+    }, 
+    "tmax_10": {
+        "long_name": "Max T - Oct.",
+        "dtype": "continuous",
+        "unit": "deg.C",
+        "category": "Climate"
+    }, 
+    "tmax_2": {
+        "long_name": "Max T - Feb.",
+        "dtype": "continuous",
+        "unit": "deg.C",
+        "category": "Climate"
+    }, 
+    "tmax_5": {
+        "long_name": "Max T - May",
+        "dtype": "continuous",
+        "unit": "deg.C",
+        "category": "Climate"
+    }, 
+    "tmax_6": {
+        "long_name": "Max T - June",
+        "dtype": "continuous",
+        "unit": "deg.C",
+        "category": "Climate"
+    }, 
+    "tmax_8": {
+        "long_name": "Max T - Aug.",
+        "dtype": "continuous",
+        "unit": "deg.C",
+        "category": "Climate"
+    }, 
+    "tmax_9": {
+        "long_name": "Max T - Sep.",
+        "dtype": "continuous",
+        "unit": "deg.C",
+        "category": "Climate"
+    }, 
+    "tmin_5": {
+        "long_name": "Min T - May",
+        "dtype": "continuous",
+        "unit": "deg.C",
+        "category": "Climate"
+    },
+    "tmin_9": {
+        "long_name": "Min T - Sep.",
+        "dtype": "continuous",
+        "unit": "deg.C",
+        "category": "Climate"
+    }, 
+    "topographic_wetness_index": {
+        "long_name": "Topographic wetness index",
+        "dtype": "continuous",
+        "unit": "-",
+        "category": "Geospatial"
+    }, 
+    "total_insolation": {
+        "long_name": "Potential total incoming solar rad.",
+        "dtype": "continuous",
+        "unit": "W m-2",
+        "category": "Geospatial"
+    }, 
+    "valley_depth": {
+        "long_name": "Valley depth",
+        "dtype": "continuous",
+        "unit": "-",
+        "category": "Geospatial"
+    },
+    "vertical_distance_to_channel_network": {
+        "long_name": "Vertical distance to channel network",
+        "dtype": "continuous",
+        "unit": "m",
+        "category": "Geospatial"
+    }, 
+    "visible_sky": {
+        "long_name": "Visible sky",
+        "dtype": "continuous",
+        "unit": "%",
+        "category": "Geospatial"
+    }
+}

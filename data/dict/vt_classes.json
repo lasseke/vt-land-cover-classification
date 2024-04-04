@@ -1,0 +1,392 @@
+{
+    "1a": {
+        "merged" : 0,
+        "long_name" : "Moss snowbed",
+        "ecosys_group" : "Heath and mountain",
+        "excluded": 1
+    },
+    "1b": {
+        "merged" : 0,
+        "long_name" : "Sedge and grass snowbed",
+        "ecosys_group" : "Heath and mountain",
+        "excluded": 1
+    },
+    "1c": {
+        "merged" : 0,
+        "long_name" : "Frozen ground, leeward",
+        "ecosys_group" : "Heath and mountain",
+        "excluded": 0
+    },
+    "1ab": {
+        "merged" : 1,
+        "long_name" : "Moss snowbed/Sedge and grass snowbed",
+        "ecosys_group" : "Heath and mountain",
+        "excluded": 0
+    },
+    "2a": {
+        "merged" : 0,
+        "long_name" : "Frozen ground, ridge",
+        "ecosys_group" : "Heath and mountain",
+        "excluded": 0
+        },
+    "2b": {
+        "merged" : 0,
+        "long_name" : "Dry grass heath",
+        "ecosys_group" : "Heath and mountain",
+        "excluded": 0
+        },
+    "2c": {
+        "merged" : 0,
+        "long_name" : "Lichen heath",
+        "ecosys_group" : "Heath and mountain",
+        "excluded": 0
+        },
+    "2d": {
+        "merged" : 0,
+        "long_name" : "Mountain avens heath",
+        "ecosys_group" : "Heath and mountain",
+        "excluded": 0
+    },
+    "2e": {
+        "merged" : 0,
+        "long_name" : "Dwarf shrub",
+        "ecosys_group" : "Heath and mountain",
+        "excluded": 1
+    },
+    "2f": {
+        "merged" : 0,
+        "long_name" : "Alpine calluna heath",
+        "ecosys_group" : "Heath and mountain",
+        "excluded": 1
+    },
+    "2g": {
+        "merged" : 0,
+        "long_name" : "Alpine damp heath",
+        "ecosys_group" : "Heath and mountain",
+        "excluded": 0
+    },
+    "2ef": {
+        "merged" : 1,
+        "long_name" : "Dwarf shrub/Alpine calluna heath",
+        "ecosys_group" : "Heath and mountain",
+        "excluded": 0
+    },
+    "3a": {
+        "merged" : 0,
+        "long_name" : "Low herb meadow",
+        "ecosys_group" : "Other",
+        "excluded": 1
+    },
+    "3b": {
+        "merged" : 0,
+        "long_name" : "Forb meadow",
+        "ecosys_group" : "Other",
+        "excluded": 1
+    },
+    "3ab": {
+        "merged" : 1,
+        "long_name" : "Low herb/Forb meadow",
+        "ecosys_group" : "Other",
+        "excluded": 0
+    },
+    "4a": {
+        "merged" : 0,
+        "long_name" : "Lichen and heather birch forest",
+        "ecosys_group" : "Forest",
+        "excluded": 0
+    },
+    "4b": {
+        "merged" : 0,
+        "long_name" : "Bilberry birch forest",
+        "ecosys_group" : "Forest",
+        "excluded": 0
+    },
+    "4c": {           
+        "merged" : 0,
+        "long_name" : "Meadow birch forest",
+        "ecosys_group" : "Forest",
+        "excluded": 0
+    },
+    "4d": {           
+        "merged" : 0,
+        "long_name" : "Birch forest on lime soils",
+        "ecosys_group" : "Forest",
+        "excluded": 1
+    },
+    "4e": {           
+        "merged" : 0,
+        "long_name" : "Alder forest",
+        "ecosys_group" : "Forest",
+        "excluded": 0
+    },
+    "4f": {           
+        "merged" : 0,
+        "long_name" : "Flood-plain shrubs",
+        "ecosys_group" : "Forest",
+        "excluded": 1
+    },
+    "4g": {   
+        "merged" : 0,
+        "long_name" : "Pasture land forest",
+        "ecosys_group" : "Forest",
+        "excluded": 0
+    },
+    "5a": {
+        "merged" : 0,
+        "long_name" : "Poor broadleaf deciduous forest",
+        "ecosys_group" : "Forest",
+        "excluded": 1
+    },
+    "5b": {
+        "merged" : 0,
+        "long_name" : "Rich broadleaf deciduous forest",
+        "ecosys_group" : "Forest",
+        "excluded": 1
+    },
+    "5ab": {
+        "merged" : 1,
+        "long_name" : "Poor/Rich broadleaf deciduous forest",
+        "ecosys_group" : "Forest",
+        "excluded": 0
+    },
+    "6a": {
+        "merged" : 0,
+        "long_name" : "Lichen and heather pine forest",
+        "ecosys_group" : "Forest",
+        "excluded": 0
+    },
+    "6b": {      
+        "merged" : 0,
+        "long_name" : "Bilberry pine forest",
+        "ecosys_group" : "Forest",
+        "excluded": 0
+    },
+    "6c": {      
+        "merged" : 0,
+        "long_name" : "Meadow pine forest",
+        "ecosys_group" : "Forest",
+        "excluded": 1
+    },
+    "6d": {      
+        "merged" : 0,
+        "long_name" : "Pine forest on lime soils",
+        "ecosys_group" : "Forest",
+        "excluded": 1
+    },
+    "7a": {   
+        "merged" : 0,
+        "long_name" : "Lichen and heather spruce forest",
+        "ecosys_group" : "Forest",
+        "excluded": 0
+    },
+    "7b": {
+        "merged" : 0,
+        "long_name" : "Bilberry spruce forest",
+        "ecosys_group" : "Forest",
+        "excluded": 0
+    },
+    "7c": {     
+        "merged" : 0,
+        "long_name" : "Meadow spruce forest",
+        "ecosys_group" : "Forest",
+        "excluded": 0
+    },
+    "8a": {          
+        "merged" : 0,
+        "long_name" : "Damp forest",
+        "ecosys_group" : "Wetland",
+        "excluded": 0
+    },
+    "8b": {
+        "merged" : 0,
+        "long_name" : "Bog forest",
+        "ecosys_group" : "Wetland",
+        "excluded": 0
+    },
+    "8c": {     
+        "merged" : 0,
+        "long_name" : "Poor swamp forest",
+        "ecosys_group" : "Wetland",
+        "excluded": 1
+    },
+    "8d": {     
+        "merged" : 0,
+        "long_name" : "Rich swamp forest",
+        "ecosys_group" : "Wetland",
+        "excluded": 1
+    },
+    "8cd": {     
+        "merged" : 1,
+        "long_name" : "Poor/Rich swamp forest",
+        "ecosys_group" : "Wetland",
+        "excluded": 0
+    },
+    "9a": {       
+        "merged" : 0,
+        "long_name" : "Bog fen",
+        "ecosys_group" : "Wetland",
+        "excluded": 1
+    },
+    "9b": {       
+        "merged" : 0,
+        "long_name" : "Deer-grass fen",
+        "ecosys_group" : "Wetland",
+        "excluded": 1
+    },
+    "9c": {       
+        "merged" : 0,
+        "long_name" : "Fen",
+        "ecosys_group" : "Wetland",
+        "excluded": 1
+    },
+    "9d": {       
+        "merged" : 0,
+        "long_name" : "Mud-bottom fen and bog",
+        "ecosys_group" : "Wetland",
+        "excluded": 1
+    },
+    "9e": {
+        "merged" : 0,
+        "long_name" : "Sedge marsh",
+        "ecosys_group" : "Wetland",
+        "excluded": 0
+    },
+    "9ad": {       
+        "merged" : 1,
+        "long_name" : "Bog/Mud-bottom fen and bog",
+        "ecosys_group" : "Wetland",
+        "excluded": 0
+    },
+    "9bc": {
+        "merged" : 1,
+        "long_name" : "Deer-grass fen/Fen",
+        "ecosys_group" : "Wetland",
+        "excluded": 0
+    },
+    "10a": {
+        "merged" : 0,
+        "long_name" : "Coastal heath",
+        "ecosys_group" : "Other",
+        "excluded": 1
+    },
+    "10b": {
+        "merged" : 0,
+        "long_name" : "Coastal calluna heath",
+        "ecosys_group" : "Other",
+        "excluded": 1
+    },
+    "10c": {
+        "merged" : 0,
+        "long_name" : "Damp heath",
+        "ecosys_group" : "Other",
+        "excluded": 0
+    },
+    "10d": {
+        "merged" : 0,
+        "long_name" : "Crags and thicket",
+        "ecosys_group" : "Other",
+        "excluded": 1
+    },
+    "10e": {
+        "merged" : 0,
+        "long_name" : "Moist and shore meadows",
+        "ecosys_group" : "Other",
+        "excluded": 1
+    },
+    "10f": {
+        "merged" : 0,
+        "long_name" : "Sand dunes and gravel beaches",
+        "ecosys_group" : "Other",
+        "excluded": 1
+    },
+    "10g": {
+        "merged" : 0,
+        "long_name" : "Pioneer alluvial vegetation",
+        "ecosys_group" : "Other",
+        "excluded": 1
+    },
+    "10ab": {
+        "merged" : 1,
+        "long_name" : "Coastal heath/Coastal calluna heath",
+        "ecosys_group" : "Other",
+        "excluded": 0
+    },
+    "11a": {
+        "merged" : 0,
+        "long_name" : "Cultivated land",
+        "ecosys_group" : "Other",
+        "excluded": 1
+    },
+    "11b": {
+        "merged" : 0,
+        "long_name" : "Pastures",
+        "ecosys_group" : "Other",
+        "excluded": 0
+    },
+    "12a": {      
+        "merged" : 0,
+        "long_name" : "Barren land",
+        "ecosys_group" : "Other",
+        "excluded": 1
+    },
+    "12b": {      
+        "merged" : 0,
+        "long_name" : "Boulder field",
+        "ecosys_group" : "Other",
+        "excluded": 0
+    },
+    "12c": {
+        "merged" : 0,
+        "long_name" : "Exposed bedrock",
+        "ecosys_group" : "Other",
+        "excluded": 0
+    },
+    "12d": {      
+        "merged" : 0,
+        "long_name" : "Built-up areas",
+        "ecosys_group" : "Other",
+        "excluded": 1
+    },
+    "12e": {      
+        "merged" : 0,
+        "long_name" : "Scattered housing",
+        "ecosys_group" : "Other",
+        "excluded": 1
+    },
+    "12f": {      
+        "merged" : 0,
+        "long_name" : "Artificial impediment",
+        "ecosys_group" : "Other",
+        "excluded": 1
+    },
+    "12g": {      
+        "merged" : 0,
+        "long_name" : "Glaciers and perpetual snow",
+        "ecosys_group" : "Other",
+        "excluded": 1
+    },
+    "13a": {      
+        "merged" : 0,
+        "long_name" : "Water courses (fresh)",
+        "ecosys_group" : "Other",
+        "excluded": 1
+    },
+    "13b": {      
+        "merged" : 0,
+        "long_name" : "Water bodies (fresh)",
+        "ecosys_group" : "Other",
+        "excluded": 1
+    },
+    "13c": {      
+        "merged" : 0,
+        "long_name" : "Estuaries",
+        "ecosys_group" : "Other",
+        "excluded": 1
+    },
+    "13d": {      
+        "merged" : 0,
+        "long_name" : "Sea and ocean",
+        "ecosys_group" : "Other",
+        "excluded": 1
+    }
+}
