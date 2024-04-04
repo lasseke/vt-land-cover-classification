@@ -37,5 +37,5 @@ The notebooks may need to be executed sequentially to reproduce results (ascendi
 |              | `02-*.ipynb` | Notebooks to preprocess the data for model fitting (clean, generate feature matrix, create shared spatial cross validation indices, etc.). |
 |              | `03-*.ipynb` | Notebooks to calculate and visualize data statistics (predictor correlation, etc.). |
 |              | `04-*.ipynb` | Notebooks for model experiments. |
-|              | `A-*.ipynb` | Notebooks for additional experiments and figures that were not included in the paper. |
+|              | `A-*.ipynb` | Notebooks for experiments run on an HPC cluster for better performance. |
 | `src/` | `*.py` | Python helper code. |
