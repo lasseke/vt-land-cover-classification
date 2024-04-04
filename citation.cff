@@ -6,6 +6,6 @@ authors:
   orcid: "https://orcid.org/0000-0002-8040-4122"
 title: "AR18x18 Vegetation Type land cover classification"
 version: 0.1.0
-doi: TBA
+doi: 10.5281/zenodo.10927026
 date-released: 2024-04-04
 url: "https://github.com/lasseke/vt-land-cover-classification"
